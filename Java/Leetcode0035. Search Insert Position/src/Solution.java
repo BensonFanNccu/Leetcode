@@ -5,7 +5,8 @@ public class Solution {
                 return i;
             }
         }
-        return nums.length;
+
+        return -1;
     }
 
     public int searchInsert2(int[] nums, int target){
@@ -23,6 +24,7 @@ public class Solution {
                 start = mid + 1;
             }
         }
+        
         return start;
     }
 }
