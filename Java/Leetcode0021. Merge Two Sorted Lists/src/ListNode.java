@@ -30,6 +30,7 @@ public class ListNode {
 
     public void add(int item){
         ListNode node = new ListNode(item);
+        
         if(next == null){
             next = node;
         }else{
