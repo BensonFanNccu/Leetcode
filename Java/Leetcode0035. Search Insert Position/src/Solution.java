@@ -6,7 +6,7 @@ public class Solution {
             }
         }
 
-        return -1;
+        return nums.length;
     }
 
     public int searchInsert2(int[] nums, int target){
