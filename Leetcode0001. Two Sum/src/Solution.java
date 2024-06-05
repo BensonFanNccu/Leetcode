@@ -12,6 +12,7 @@ public class Solution {
             }
             map.put(nums[i], i);
         }
+        
         return new int[] {};
     }
 
@@ -23,6 +24,7 @@ public class Solution {
                 }
             }
         }
+
         return new int[] {};
     }
 }
