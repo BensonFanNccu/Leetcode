@@ -6,6 +6,5 @@ public class App {
         ListNode case2 = new ListNode(new int[] {1, 2, 4});
 
         sol.mergeTwoLists(case1, case2).printNodes();
-        
     }
 }
