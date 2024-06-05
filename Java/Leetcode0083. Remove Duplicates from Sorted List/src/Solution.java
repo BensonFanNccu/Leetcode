@@ -9,6 +9,7 @@ public class Solution {
                 current = current.next;
             }
         }
+        
         return head;
     }
 }
