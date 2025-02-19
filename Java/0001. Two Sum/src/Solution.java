@@ -6,8 +6,8 @@ public class Solution {
     public int[] twoSum(int[] nums, int target){
         /*
          * HashMap Solution
-         * Time: O(n)
-         * Space: O(n)
+         * Time: O(N)
+         * Space: O(N)
          */
 
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
