@@ -11,6 +11,7 @@ public class App {
          *     Output: [0,1]
          *     Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
          */
+        
         Solution sol = new Solution();
 
         int[] testCase1 = new int[] {2,7,11,15};
