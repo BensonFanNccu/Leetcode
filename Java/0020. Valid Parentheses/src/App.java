@@ -10,8 +10,8 @@ public class App {
          * 3. Every close bracket has a corresponding open bracket of the same type.
          * 
          * Example: 
-         * Input: s = "()"
-         * Output: true
+         *     Input: s = "()"
+         *     Output: true
          */
         
         Solution sol = new Solution();
