@@ -2,7 +2,7 @@ public class Solution {
     public int searchInsert(int[] nums, int target) {
         /*
          * Binary Search Solution
-         * Time: O(N)
+         * Time: O(LogN)
          * Space: O(1)
          */
 
