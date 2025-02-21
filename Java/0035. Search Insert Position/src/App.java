@@ -8,8 +8,8 @@ public class App {
          * If not, return the index where it would be if it were inserted in order.
          * 
          * Example:
-         *     Input: nums = [1,3,5,6], target = 5
-         *     Output: 2
+         * Input: nums = [1,3,5,6], target = 5
+         * Output: 2
          */
 
         Solution sol = new Solution();
