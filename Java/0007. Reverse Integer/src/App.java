@@ -6,8 +6,8 @@ public class App {
          * range [-2^31, 2^31 - 1], then return 0.
          * 
          * Example:
-         *     Input: x = 123
-         *     Output: 321
+         * Input: x = 123
+         * Output: 321
          */
         
         Solution sol = new Solution();
