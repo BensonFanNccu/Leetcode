@@ -8,9 +8,9 @@ public class App {
          * which minimizes the sum of all numbers along its path.
          * 
          * Example:
-         *     Input: grid = [[1,3,1],[1,5,1],[4,2,1]]
-         *     Output: 7
-         *     Explanation: Because the path 1 → 3 → 1 → 1 → 1 minimizes the sum.
+         * Input: grid = [[1,3,1],[1,5,1],[4,2,1]]
+         * Output: 7
+         * Explanation: Because the path 1 → 3 → 1 → 1 → 1 minimizes the sum.
          */
 
         Solution sol = new Solution();
