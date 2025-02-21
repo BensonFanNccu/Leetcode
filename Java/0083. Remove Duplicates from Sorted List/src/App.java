@@ -6,8 +6,8 @@ public class App {
          * Return the linked list sorted as well.
          * 
          * Example:
-         *     Input: head = [1,1,2]
-         *     Output: [1,2]
+         * Input: head = [1,1,2]
+         * Output: [1,2]
          */
         
         Solution sol = new Solution();
