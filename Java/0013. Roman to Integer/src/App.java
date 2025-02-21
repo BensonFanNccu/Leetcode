@@ -5,9 +5,9 @@ public class App {
          * I, V, X, L, C, D and M.
          * 
          * Example:
-         *     Input: s = "III"
-         *     Output: 3
-         *     Explanation: III = 3.
+         * Input: s = "III"
+         * Output: 3
+         * Explanation: III = 3.
          */
 
         Solution sol = new Solution();
