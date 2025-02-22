@@ -8,8 +8,7 @@ public class App {
          * Example:
          * Input: n = 11
          * Output: 3
-         * Explanation:
-         * The input binary string 1011 has a total of three set bits.
+         * Explanation: The input binary string 1011 has a total of three set bits.
          */
         
         Solution sol = new Solution();
