@@ -1,7 +1,7 @@
 class Solution {
     public int maxDepth(TreeNode root) {
         /*
-         * Recursion(BFS) Solution
+         * Recursion(DFS) Solution
          * Time: O(N)
          * Space: O(N)
          */
