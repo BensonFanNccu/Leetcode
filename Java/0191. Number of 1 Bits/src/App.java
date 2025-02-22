@@ -19,7 +19,7 @@ public class App {
         int case3 = 128;
 
         System.out.println(sol.hammingWeight(case1));
-        System.out.println(sol.hammingWeight(case2));
+        System.out.println(sol.hammingWeight2(case2));
         System.out.println(sol.hammingWeight(case3));
     }
 }

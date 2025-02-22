@@ -16,4 +16,21 @@ class Solution {
 
         return ans;
     }
+
+    public int hammingWeight2(int n) {
+        /*
+         * Bitwise Solution
+         * Time: O(1)
+         * Space: O(1)
+         */
+        
+        int ans = 0;
+
+        while(n != 0){
+            ans += n & 1;
+            n = n >>> 1;
+        }
+
+        return ans;
+    }
 }
