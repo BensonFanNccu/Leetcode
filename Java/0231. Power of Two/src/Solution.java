@@ -1,7 +1,7 @@
 class Solution {
     public boolean isPowerOfTwo(int n){
         /*
-         * Recursive Solution
+         * Recursion Solution
          * Time: O(LogN)
          * Space: O(1)
          */
