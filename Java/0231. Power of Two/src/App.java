@@ -7,7 +7,7 @@ public class App {
          * Example:
          * Input: n = 16
          * Output: true
-         * Explanation: 24 = 16
+         * Explanation: 2^4 = 16
          */
 
         Solution sol = new Solution();
