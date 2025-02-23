@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 
 public class Solution {
-    public int[] twoSum(int[] nums, int target){
+    public int[] twoSum(int[] nums, int target) {
         /*
          * HashMap Solution
          * Time: O(N)
@@ -24,7 +24,7 @@ public class Solution {
     }
 
 
-    public int[] twoSum2(int[] nums, int target){
+    public int[] twoSum2(int[] nums, int target) {
         /*
          * Brute Force Solution
          * Time: O(N^2)
