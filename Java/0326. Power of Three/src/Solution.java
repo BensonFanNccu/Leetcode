@@ -1,5 +1,5 @@
 public class Solution {
-    public boolean isPowerOfThree(int n){
+    public boolean isPowerOfThree(int n) {
         /*
          * Recursion Solution
          * Time: O(LogN)
