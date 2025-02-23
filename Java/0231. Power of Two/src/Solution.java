@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPowerOfTwo(int n){
+    public boolean isPowerOfTwo(int n) {
         /*
          * Recursion Solution
          * Time: O(LogN)
