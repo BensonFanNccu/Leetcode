@@ -9,7 +9,7 @@ class Solution {
         return isValid(root, null, null);
     }
 
-    public boolean isValid(TreeNode root, Integer min, Integer max){
+    public boolean isValid(TreeNode root, Integer min, Integer max) {
         if(root == null) return true;
         if((min != null && root.val <= min) || (max != null) && root.val >= max) return false;
 
