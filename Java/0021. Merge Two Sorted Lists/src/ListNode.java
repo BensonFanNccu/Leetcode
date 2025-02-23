@@ -2,21 +2,21 @@ public class ListNode {
     int val;
     ListNode next;
 
-    public ListNode(){
+    public ListNode() {
         this.next = null;
     }
 
-    public ListNode(int val){
+    public ListNode(int val) {
         this.val = val;
         this.next = null;
     }
 
-    public ListNode(int val, ListNode next){
+    public ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
 
-    public ListNode(int[] nums){
+    public ListNode(int[] nums) {
         val = nums[0];
 
         if(nums.length == 1){
@@ -26,7 +26,7 @@ public class ListNode {
         }
     }
 
-    public void add(int item){
+    public void add(int item) {
         ListNode node = new ListNode(item);
         
         if(next == null){
@@ -36,7 +36,7 @@ public class ListNode {
         }
     }
 
-    public void printNodes(){
+    public void printNodes() {
         System.out.print(val + " ");
         
         if(next != null) next.printNodes();
