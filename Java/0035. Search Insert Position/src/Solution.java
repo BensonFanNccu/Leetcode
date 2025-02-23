@@ -9,7 +9,7 @@ public class Solution {
         return binarySearch(nums, 0, nums.length - 1, target);
     }
 
-    public int binarySearch(int[] nums, int left, int right, int target){
+    public int binarySearch(int[] nums, int left, int right, int target) {
         int mid = (left + right) / 2;
 
         if(left == right && target > nums[left]) return left + 1;
