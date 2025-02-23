@@ -21,7 +21,7 @@ class Solution {
         return ans;
     }
 
-    public String toLowerCase2(String s){
+    public String toLowerCase2(String s) {
         /*
          * Built-in Function Solution
          * Time: O(N)
