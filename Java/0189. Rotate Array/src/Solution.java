@@ -36,7 +36,7 @@ class Solution {
         System.out.println(Arrays.toString(nums));
     }
 
-    public void reverse(int[] nums, int left, int right){
+    public void reverse(int[] nums, int left, int right) {
         while(left < right){
             int temp = nums[left];
             nums[left] = nums[right];
