@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         /*
          * Recursion Solution
