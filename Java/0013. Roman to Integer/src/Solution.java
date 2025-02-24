@@ -19,11 +19,8 @@ public class Solution {
                 case 'M': num = 1000; break; 
             }
 
-            if(num >= prev){
-                ans += num;
-            }else{
-                ans -= num;
-            }
+            if(num >= prev) ans += num;
+            else ans -= num;
 
             prev = num;
         }
