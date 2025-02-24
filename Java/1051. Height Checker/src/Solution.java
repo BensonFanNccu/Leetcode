@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+public class Solution {
     public int heightChecker(int[] heights) {
         /*
          * Built-in Sort Solution
