@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int singleNumber(int[] nums) {
         /*
          * Bitwise Solution
