@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int theMaximumAchievableX(int num, int t) {
         /*
          * Math Solution
