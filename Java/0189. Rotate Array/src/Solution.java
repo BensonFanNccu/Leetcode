@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+public class Solution {
     public void rotate(int[] nums, int k) {
         /*
          * Modulo Solution
