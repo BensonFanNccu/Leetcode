@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-class Solution {
+public class Solution {
     public int numJewelsInStones(String jewels, String stones) {
         /*
          * Straight Forward Solution
