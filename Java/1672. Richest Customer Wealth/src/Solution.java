@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int maximumWealth(int[][] accounts) {
         /*
          * Straight Forward Solution
