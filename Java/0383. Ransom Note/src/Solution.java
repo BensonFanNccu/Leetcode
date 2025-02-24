@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+public class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         /*
          * HashMap Solution
