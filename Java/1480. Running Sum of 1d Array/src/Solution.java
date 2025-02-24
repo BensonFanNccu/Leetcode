@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int[] runningSum(int[] nums) {
         /*
          * Straight Forward Solution
