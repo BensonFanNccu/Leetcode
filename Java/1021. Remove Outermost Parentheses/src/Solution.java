@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public String removeOuterParentheses(String s) {
         /*
          * Straight Forward Solution
