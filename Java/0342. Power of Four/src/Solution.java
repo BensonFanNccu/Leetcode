@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public boolean isPowerOfFour(int n) {
         /*
          * Recursion Solution
