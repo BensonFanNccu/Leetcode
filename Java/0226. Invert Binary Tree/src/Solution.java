@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public TreeNode invertTree(TreeNode root) {
         /*
          * Recursion Solution
