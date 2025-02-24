@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public boolean isValidBST(TreeNode root) {
         /*
          * Traversal Solution
