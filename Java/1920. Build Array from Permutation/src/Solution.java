@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int[] buildArray(int[] nums) {
         /*
          * Straight Forward Solution
@@ -38,6 +38,4 @@ class Solution {
 
         return nums;
     }
-
-
 }
