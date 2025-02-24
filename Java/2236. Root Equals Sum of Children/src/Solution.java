@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public boolean checkTree(TreeNode root) {
         /*
          * Straight Forward Solution
