@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int rob(TreeNode root) {
         /*
          * DP Solution
