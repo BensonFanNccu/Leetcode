@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int maxDepth(TreeNode root) {
         /*
          * Recursion(DFS) Solution
