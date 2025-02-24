@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public boolean isPowerOfTwo(int n) {
         /*
          * Recursion Solution
