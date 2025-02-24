@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public String toLowerCase(String s) {
         /*
          * ASCII Solution
@@ -11,11 +11,8 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             int c = (int)s.charAt(i);
 
-            if(c >= 65 && c <= 90){
-                ans += (char)(c + 32);
-            }else{
-                ans += (char)c;
-            }
+            if(c >= 65 && c <= 90) ans += (char)(c + 32);
+            else ans += (char)c;
         }
 
         return ans;
